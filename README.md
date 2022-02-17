@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asad Ali.
 - 👀 I’m interested in learning Machine Learning.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 🌱 I’m currently learning Deep Learning.
+- 💞️ I’m looking to collaborate on Deep Learning projects.
 - 📫 How to reach me @Asad808 or via asadali808@hotmail.com.
 
 <!---
