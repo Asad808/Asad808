@@ -96,6 +96,19 @@
 
 <h2 align="left">COMPLETED INTERNATIONAL HACKATHONS:</h2>
 
+
+<p float="left">
+  <a href="https://lablab.ai/event/openai-hackathon/schedulegenius/schedulegenius"_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%252Fevents%252Fclbqrbp1w0000356j88fvai67%252Fclbqrbp1w0000356j88fvai67_qi03kyf_imageLink.jpg&w=1080&q=75" width="390">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/cohere-hackathon/finxai/finxai-the-ai-portfolio-manager" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%252Fevents%252Fclc0qp53h0000356j4iileamg%252Fclc0qp53h0000356j4iileamg_u013jgr_imageLink.jpg&w=1080&q=75" width="390">
+  </a>
+  &nbsp;
+    <a href="https://lablab.ai/event/phi-2-technology-24-hours-challenge/the-phi-generation/phi-generation-graph-detective">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclrkyxgi00003357es6gnd0dm%2Fundefined_imageLink_7681y0tlb.jpg&w=1080&q=75" width="390">
+  </a>
 ###
 <!---
 Asad808/Asad808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
