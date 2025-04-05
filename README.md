@@ -5,7 +5,7 @@
 <h3 align="center">Leetcode 50+ | AI Engineer | 3x Intl' Hackathon Participant | Certified MLOps Engineer | AI in Medical Imaging | Agentic AI | Aspiring Developer | AI Enthusiast</h3>
 
 ###
-
+---
 ## About Me:
 - **@[GitHub](https://github.com/Asad808)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/Asad808/)** Solved 50+ Data Structures & Algorithms problems on LeetCode.
@@ -109,7 +109,7 @@
     <a href="https://lablab.ai/event/phi-2-technology-24-hours-challenge/the-phi-generation/phi-generation-graph-detective">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclrkyxgi00003357es6gnd0dm%2Fundefined_imageLink_7681y0tlb.jpg&w=1080&q=75" width="390">
   </a>
-###
+
 <!---
 Asad808/Asad808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
