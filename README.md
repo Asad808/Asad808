@@ -6,11 +6,13 @@
 
 ###
 
-<h2 align="left">About Me:</h2>
+## About Me:
+- **@[GitHub](https://github.com/Asad808)** Contributing DSA material daily on GitHub and my achievements.
+- **@[LeetCode](https://leetcode.com/u/Asad808/)** Solved [125+](https://github.com/SaifRasool92/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
+- **@[Deep Learning Specialization](https://www.credly.com/badges/0ec39239-555c-4cdf-94ae-2f5925af8e18/public_url)**: Build and train Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and Transformers.
+- **@[DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QXBKBPAHVR8Z)**: Teach machines to understand, analyze, and respond to human speech with natural language processing systems. Improve network performance using convolutions to identify real-world images.
+- **@[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/SEP8VUZ4KS39)**: Mastered well-established tools and methodologies to build production systems that can handle relentless evolving data and continuously run at maximum efficiency
 
-###
-
-<p align="left">- **@[GitHub](https://github.com/Asad808)** Contributing DSA material daily on GitHub and my achievements.<br>- **@[LeetCode](https://leetcode.com/u/Asad808/)** Solved 50+ Data Structures & Algorithms problems on LeetCode.<br>- **@[Deep Learning Specialization](https://www.credly.com/badges/0ec39239-555c-4cdf-94ae-2f5925af8e18/public_url)** Build and train Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and Transformers.<br>- **@[DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QXBKBPAHVR8Z)** Teach machines to understand, analyze, and respond to human speech with natural language processing systems. Improve network performance using convolutions to identify real-world images.<br>- **@[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/SEP8VUZ4KS39)** Mastered well-established tools and<br>methodologies to build production systems that can handle relentless<br>evolving data and continuously run at maximum efficiency.</p>
 
 ###
 
