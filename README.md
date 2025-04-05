@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- @GitHub Contributing DSA material daily on GitHub and my achievements.<br>- @LeetCode Solved 50+ Data Structures & Algorithms problems on LeetCode.<br>- @Deep Learning Specialization: Build and train Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and Transformers.<br>- @DeepLearning.AI TensorFlow Developer Specialization: Teach machines to understand, analyze, and respond to human speech with natural language processing systems. Improve network performance using convolutions to identify real-world images.<br>- @Machine Learning Engineering for Production (MLOps) Specialization: Mastered well-established tools and<br>methodologies to build production systems that can handle relentless<br>evolving data and continuously run at maximum efficiency.</p>
+<p align="left">- **@[GitHub](https://github.com/Asad808)** Contributing DSA material daily on GitHub and my achievements.<br>- **@[LeetCode](https://leetcode.com/u/Asad808/)** Solved 50+ Data Structures & Algorithms problems on LeetCode.<br>- **@[Deep Learning Specialization](https://www.credly.com/badges/0ec39239-555c-4cdf-94ae-2f5925af8e18/public_url)** Build and train Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and Transformers.<br>- **@[DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QXBKBPAHVR8Z)** Teach machines to understand, analyze, and respond to human speech with natural language processing systems. Improve network performance using convolutions to identify real-world images.<br>- **@[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/SEP8VUZ4KS39)** Mastered well-established tools and<br>methodologies to build production systems that can handle relentless<br>evolving data and continuously run at maximum efficiency.</p>
 
 ###
 
@@ -21,7 +21,7 @@
 <h3 align="left">Machine Learning:</h3>
 
 ###
-
+<a href="https://github.com/Asad808/">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
   <img width="20" />
@@ -45,7 +45,7 @@
 <h3 align="left">Others:</h3>
 
 ###
-
+<a href="https://github.com/Asad808/">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
   <img width="20" />
@@ -71,8 +71,11 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/asad-ali-b6071b129/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  <a href="https://discordapp.com/users/862409431086268457" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+  <a href="mailto:asadali808@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
 </div>
 
